@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.10)
+  - SWXMLHash (6.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SWXMLHash (~> 6.0.0)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  SWXMLHash: 9d851ed3edf48ec2bd0db98f0cda0ad4136d75e3
+
+PODFILE CHECKSUM: 7feaade06dbd2c3f66f0430787ac9f45d2f324aa
+
+COCOAPODS: 1.11.3
