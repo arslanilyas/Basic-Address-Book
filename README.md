@@ -1,9 +1,25 @@
 # Basic-Address-Book
+
+<b>Features</b>
  
-Open the cloned directory. Locate the file with xcworkspace extension in the root directory. Double click the file and it will be opened in XCode
+1. Reading the data from Xml file and paring of xml on model.
+2. Saving Xml file to App local directory to later update the content of file.
+3. Adding, updating and deleting contacts and updating the Xml file in App local directory to  reflect the changes even after restarting of app.
+4. Showing the data in Table View.
+5. Searching the contact with the name of contact.
+6. Sorting the contact list ascending and descending orders.
+7. Showing the complete information of contact like email, address, fax etc. in new screen.
+8. Call, email, message to contact.
+9. Share contact number with name features.
+10. Adding new contact feature with duplicate number and empty fields validations.
+11. Exporting the updated contact list in the form of JSON and User can save the File anywhere in storage.
 
-To build an app, or any other target, select a scheme that contains the target. Xcode displays the selected scheme in the toolbar of your project window. To change the selected scheme, click the scheme name and choose a new one from the pop-up menu.
+<b>What enhacements and improvements we can do?</b>
 
-When you select a scheme to build, you also select a destination where you run the built products. Each scheme contains a list of real or simulated devices that represent the available destinations. To select a destination, click the destination name, which is next to the scheme name in the toolbar. Select an appropriate device from the pop-up menu.
-
-To build and run your code, choose Product > Run, or click the Run button in your project’s toolbar.
+1. Showing the contact with alphabetical sections.
+2. Search with both name or phone number.
+3. Store multiple numbers under the same contact’s name.
+4. Add picture of contact feature.
+5. Add unit test of each feature.
+6. Adding of address through maps and proper searching of location instead of manually adding the address only.
+7. Add contact to favorite feature.
